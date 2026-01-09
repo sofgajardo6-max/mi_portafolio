@@ -53,3 +53,10 @@ img {
     height: 300px;
     margin-left: 20px;
 }
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
