@@ -44,7 +44,7 @@ body {
     align-items: center;
 }
 
-footer p {
+footer h4 {
     display: inline;
     margin: 0;
     padding: 10px;
@@ -61,4 +61,9 @@ img {
   border-radius: 12px;
   padding: 16px;
   margin-bottom: 16px;
+}
+
+#gato2 {
+    width: 200px;
+    height: 150px;
 }
