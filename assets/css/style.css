@@ -21,7 +21,9 @@ nav ul li {
 nav ul li a {
     color: white;
     font-weight: bold;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 0px;
+
 }
 
 body {
